@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-title span {
+    color: #FD6E0A;
+}
+
+.primery-btn {
+    height: 64px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    padding-left: 36px;
+    padding-right: 35px;
+    border: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
+}
+
+/* Global CSS end */
+.header {
+    background: #FFF8F3;
+}
+
+.nav-main {
+    display: flex;
+    justify-content: space-between;
+    padding: 56px 226px;
+
+}
+
+.nav-title h2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.nav-menu ul {
+    display: flex;
+    align-items: center;
+
+}
+
+.nav-menu ul li {
+    list-style: none;
+    padding: 0 20px;
+
+
+}
+
+.nav-menu ul li a {
+    color: #474747;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+/* Hero section start  */
+.hero-section{
+    display: flex;
+    align-items: center;
+   padding-left: 230px;
+}
+.hero-section-content h3 {
+    color: #474747;
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.hero-section-content h1 {
+    font-weight: 700;
+    font-size: 85px;
+    color: #181818;
+    margin: 20px 0;
+}
+
+.hero-section-content p {
+    color: #757575;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.contact-btn{
+    border: 1px solid #FD6E0A;
+border-radius: 5px;
+color: #FD6E0A;
+font-weight: 700;
+font-size: 20px;
+text-align: center;
+padding: 19px 24px;
+margin-left: 30px;
+}
